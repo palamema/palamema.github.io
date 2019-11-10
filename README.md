@@ -1,5 +1,3 @@
 # palamema.github.io
 
-Does it *neeed* a readme?
-
-Yes, I guess it does for whatever reason. Oh well.
+Made to honor the furry personal pages of ages long ago.
